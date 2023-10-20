@@ -1,4 +1,5 @@
 <h1>Extracting Stock Data Using a Python Library</h1>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 A company's stock share is a piece of the company more precisely:
 <p><b>A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This
 entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares." [1]</p></b>
@@ -14,8 +15,7 @@ An investor can buy a stock and sell it later. If the stock price increases, the
         <li>Using yfinance to Extract Historical Dividends Data</li>
         <li>Exercise</li>
     </ul>
-<p>
-    Estimated Time Needed: <strong>30 min</strong></p>
+
 </div>
 
 <hr>
