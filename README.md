@@ -15,7 +15,7 @@ An investor can buy a stock and sell it later. If the stock price increases, the
         <li>Using yfinance to Extract Stock Info</li>
         <li>Using yfinance to Extract Historical Share Price Data</li>
         <li>Using yfinance to Extract Historical Dividends Data</li>
-        <li>Exercise</li>
+
     </ul>
 
 </div>
